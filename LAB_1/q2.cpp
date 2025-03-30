@@ -3,7 +3,6 @@
 
 using namespace std;
 
-// Função para verificar se um número é primo
 bool isPrime(int num) 
 {
     if (num <= 1) return false;
@@ -14,7 +13,7 @@ bool isPrime(int num)
     return true;
 }
 
-int main() 
+int q2() 
 {
     int count = 0;
     int number = 2;

@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int q1()
 {    
 	int n, i;    
 	int fatorial = 1;
