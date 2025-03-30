@@ -1,0 +1,13 @@
+# Executáveis
+*.exe
+
+# Pasta de saída
+LAB_1/output/
+
+# VS Code configs
+.vscode/
+
+# Arquivos temporários
+*.obj
+*.o
+*.log
