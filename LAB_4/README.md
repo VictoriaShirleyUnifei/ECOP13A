@@ -1,4 +1,4 @@
-# LAB 3 – Programação Orientada a Objetos (C++)
+# LAB 4 – Programação Orientada a Objetos (C++)
 
 **Data:** 30/04/2025
 
