@@ -7,7 +7,8 @@ int q1()
 {    
 	int n, i;    
 	int fatorial = 1;
-   cout << "Insira o valor: " << "\n";    cin >> n;
+   cout << "Insira o valor: " << "\n";    
+   cin >> n;
    
    for(i = 1; i <= n; i++)
    {
