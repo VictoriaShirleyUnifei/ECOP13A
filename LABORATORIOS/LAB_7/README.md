@@ -57,10 +57,10 @@ mkdir output
 ### 3. Compile os arquivos individualmente com `g++` (via MinGW):
 
 ```
-g++ q1/main.cpp q1/q1.cpp -o output/q1.exe
-g++ q2/main.cpp q2/ponto.cpp q2/circulo.cpp q2/cilindro.cpp -o output/q2.exe
-g++ q3/main.cpp q3/polinomio.cpp -o output/q3.exe
-g++ q4/main.cpp q4/q4_PhoneNumber.cpp -o output/q4.exe
+g++ main.cpp q1.cpp -o output/q1.exe
+g++ main.cpp q2.cpp -o output/q2.exe
+g++ main.cpp q3.cpp -o output/q3.exe
+g++ main.cpp q4.cpp -o output/q4.exe
 ```
 
 ---
